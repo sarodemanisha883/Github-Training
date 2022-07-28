@@ -3,3 +3,6 @@ Emoji
 Call
 keyboard
 colors
+
+Dark mode
+video call
