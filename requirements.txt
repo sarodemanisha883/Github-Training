@@ -1,0 +1,5 @@
+This is chat application
+Emoji
+Call
+keyboard
+colors
