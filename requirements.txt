@@ -6,3 +6,8 @@ colors
 
 Dark mode
 video call
+
+theme
+font
+style
+
